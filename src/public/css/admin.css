@@ -1,0 +1,114 @@
+.user-list-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-search {
+    display: flex;
+    justify-content: center;
+}
+
+.search-input, .search-submit, .search-clear-button {
+    margin: 30px 15px 20px 15px;
+    border-radius: 5px;
+}
+
+.search-input {
+    font-size: 1.3em;
+    width: 200px;
+    border: 0.15em solid #c0c0c0;
+}
+
+.search-submit, .search-clear-button {
+    font-size: 1em;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.search-submit {
+    background-color: #9400d3;
+}
+
+.search-clear-button {
+    background-color: #00ffff;
+}
+
+.search-clear-link {
+    text-decoration: none;
+}
+
+.user-list-table {
+    border-bottom-style: hidden;
+    margin: 0 50px;
+}
+
+.user-list-table-row {
+    border: 0.15em solid #c0c0c0;
+    border-right-style: hidden;
+    border-left-style: hidden;
+}
+
+.user-list-title, .user-list-contents {
+    padding: 25px 10px;
+}
+
+.update-role-input {
+    width: 60px;
+    border: none;
+    font-size: 1em;
+    background-color: #f5f5f5;
+}
+
+.update-button, .delete-button {
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.update-button {
+    background-color: #00ff7f;
+    border: #00ff7f;
+}
+
+.delete-button {
+    background-color: #ff0000;
+    border: #ff0000;
+    color: #fff;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0;
+}
+
+.current-paginate-page,
+.another-paginate-page,
+.another-paginate,
+.page-link-prev,
+.page-link-next {
+    text-decoration: none;
+    font-size: 1em;
+    padding: 0.4em 0.8em;
+    cursor: pointer;
+    border: 0.5px solid #f5f5f5;
+    background-color: #fff;
+}
+
+.another-paginate-page {
+    color: #1e90ff;
+}
+
+.current-paginate-page {
+    color: #fff;
+    background-color: #1e90ff;
+    border: 0.5px solid #1e90ff;
+}
+
+.user-detail-link {
+    text-decoration: none;
+    font-size: 1em;
+    color: #00f;
+}

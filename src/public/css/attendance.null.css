@@ -1,0 +1,10 @@
+.admin-detail-text, .attendance-text {
+    font-size: 2em;
+    padding-top: 8em;
+}
+
+.user-list-link, .timestamp-link {
+    text-decoration: none;
+    margin-top: 2em;
+    color: #00f;
+}

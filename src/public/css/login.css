@@ -1,0 +1,51 @@
+.login-form {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 18.3em;
+}
+
+.login-logo {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-top: 3em;
+}
+
+.input-email,
+.input-password,
+.login-button {
+    align-self: center;
+    border-radius: 5px;
+    height: 3em;
+    margin-top: 2em;
+    padding: 1em;
+    width: 400px;
+}
+
+.input-email,
+.input-password {
+    border: solid 2px #a9a9a9;
+}
+
+.login-error {
+    width: fit-content;
+    align-self: center;
+    font-size: 0.8em;
+    color: #f00;
+}
+
+.login-button {
+    background-color: #00f;
+    color: #fff;
+    border-style: none;
+}
+
+.registration-text {
+    color: #a9a9a9;
+    margin-top: 2em;
+}
+
+.registration-link {
+    text-decoration: none;
+    color: #00f;
+}
+

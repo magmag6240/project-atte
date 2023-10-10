@@ -1,0 +1,38 @@
+.verify-email-title {
+    font-weight: bold;
+    font-size: 2em;
+    height: 200px;
+    padding-top: 3em;
+}
+
+.verify-email-text {
+    margin: 1em 0;
+}
+
+.verify-email-span {
+    background-color: black;
+    color: white;
+    padding: 0.5em;
+    margin: 0.3em;
+    border-radius: 8px;
+}
+
+.verify-email-alarm {
+    color: red;
+    margin: 2em;
+}
+
+.verify-email-resent {
+    background-color: #afeeee;
+    border-style: none;
+}
+
+.verify-email-logout {
+    background-color: #00f;
+    color: #fff;
+    border-style: none;
+    cursor: pointer;
+    margin-top: 2em;
+    padding: 1em 5em;
+    border-radius: 5px;
+}
