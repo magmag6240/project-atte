@@ -4,7 +4,8 @@
 
 【イメージ】
 
-<img width="747" alt="打刻画面" src="https://github.com/magmag6240/project-atte/assets/139316621/0b7307ea-6062-460a-a133-3c4954d9da8d">
+<img width="747" alt="打刻画面" src="https://github.com/magmag6240/project-atte/assets/139316621/47acea01-ac65-45ea-b04d-b795c95cdd7e">
+
 
 ## 作成した目的
 【背景と目的】人事評価のため
@@ -38,11 +39,13 @@
 
 ## テーブル設計
 
-<img width="686" alt="テーブル設計" src="https://github.com/magmag6240/project-atte/assets/139316621/83b371d9-1c8b-4d9b-928f-470ae114cd29">
+<img width="686" alt="テーブル設計" src="https://github.com/magmag6240/project-atte/assets/139316621/f36a408b-538f-4a89-94ac-18c19c891dbd">
+
 
 ## ER図
 
-<img width="558" alt="project-atte ER" src="https://github.com/magmag6240/project-atte/assets/139316621/506fe6b2-bb75-4f7e-aea9-f4f1ffc3b331">
+<img width="558" alt="project-atte ER" src="https://github.com/magmag6240/project-atte/assets/139316621/fae7b845-2523-48a1-9ca6-c11551d4c1ce">
+
 
 # 環境構築
 
